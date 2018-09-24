@@ -1,0 +1,3 @@
+cat ${text}
+echo ${what}
+echo ${text}
